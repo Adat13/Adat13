@@ -36,7 +36,7 @@ Siempre me ha fascinado cómo la tecnología puede transformar organizaciones y 
 
 ### 📫 Cómo contactarme:
 
-- **Correo**: [tu-correo@example.com](davidangeladat@gmail.com)
+- **Correo**: [davidangeladat@gmail.com](davidangeladat@gmail.com)
 
 ⚡ **Dato curioso**: Me encanta aprender sobre nuevas tecnologías y siempre estoy buscando mejorar mis habilidades, tanto en desarrollo como en ciberseguridad. ¡La innovación no tiene límites!
 
